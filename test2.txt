@@ -1,1 +1,3 @@
 this is new branch item.
+
+adding a line in master branch to creat a conflict
